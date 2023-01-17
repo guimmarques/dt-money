@@ -15,6 +15,22 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2023-01-10T00:16:40.896Z"
+    },
+    {
+      "description": "Desenvolvimento de APP",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-01-17T00:27:32.193Z",
+      "id": 3
+    },
+    {
+      "description": "Compra de pão",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-01-17T00:38:24.668Z",
+      "id": 4
     }
   ]
 }
